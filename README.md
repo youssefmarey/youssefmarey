@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Youssef Marey</h1>
 <h3 align="center">Founder & Lead Development at DevEra Innovations</h3>
-<h4 align="center">Full Stack & Web Developer/h4>
+<h4 align="center">Full Stack & Web Developer</h4>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

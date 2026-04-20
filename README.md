@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Marey</h1>
-<h3 align="center">A Passionate Full Stack Developer From Egypt</h3>
-<h4 align="center">Founder & Lead Development at DevEra Innovations</h4>
-<h3 align="center">Full Stack & Web Developer</h3>
+<h3 align="center">A Passionate Backend Developer From Egypt</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -41,10 +39,8 @@
 
 ### 🕵️‍♂️ About Me:
 
-- ☺️ I’m **Youssef Marey**, 21 years old  
-- 🏢 Founder & Lead Developer at **DevEra Innovations**  
+- ☺️ I’m **Youssef Marey**, 22 years old   
 - 📍 I am Egyptian and I live in Cairo, Egypt. 
-- ☁️ Interested in contributing expertise in system administration , cloud , fullstack. 
 - 👯 Looking to collaborate on Innovative Projects.  
 - 📚 Love reading books on personal development. 
 - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
